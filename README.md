@@ -5,6 +5,7 @@ This program was made for an AI class to implement a genetic algorithm for sched
 The program runs at minimum 100 generations or until the fitness score has stabilized improving. At the end, the program should produce an "output.txt" file in the same directory it was run.
 
 Sample output:
+
 ![OutputSample](https://github.com/user-attachments/assets/d84fc041-6f51-465a-baf8-61b172bc5e7f)
 
 Current issues:
