@@ -9,3 +9,4 @@ Sample output:
 
 Current issues:
 A part of the fitness function, in the other_adjustment_fitness, is potentially not implemented correctly, as SLA191x can be scheduled right after SLA100x in the output
+Comments are poorly formatted and variable names are all over the place.
